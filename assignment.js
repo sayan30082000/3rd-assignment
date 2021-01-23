@@ -1,4 +1,4 @@
-//https://github.com/jmmohiuddin/javascript-assignment
+//https://github.com/sayan30082000/3rd-assignment
 
 //1 number problem
 function kilometerToMeter(kilometer) {
