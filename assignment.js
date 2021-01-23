@@ -15,6 +15,8 @@ function kilometerToMeter(kilometer) {
   console.log(teknaf);
   var tetuliya = kilometerToMeter(8);
   console.log(tetuliya);
+
+  //end of problem 1
   
   //2 number problem
   
@@ -30,6 +32,8 @@ function kilometerToMeter(kilometer) {
   }
   var cost = budgetCalculator(1, 2, 3);
   console.log(cost);
+
+  //end 0f problem 2
   
   //3 number problem
   
@@ -53,6 +57,8 @@ function kilometerToMeter(kilometer) {
   }
   var costing = hotelCost(21);
   console.log(costing);
+
+  //end of problem 3
   
   //4 number problem
   
@@ -68,3 +74,5 @@ function kilometerToMeter(kilometer) {
   }
   var friend = ("bobby", "shafkat", "sayan", "ps,", "js");
   console.log(friend);
+
+  //end of problem 4
